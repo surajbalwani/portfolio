@@ -1,0 +1,12 @@
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\bin\Debug\net5.0\SurajBalwani.Personal.Dal.deps.json
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\bin\Debug\net5.0\SurajBalwani.Personal.Dal.dll
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\bin\Debug\net5.0\ref\SurajBalwani.Personal.Dal.dll
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\bin\Debug\net5.0\SurajBalwani.Personal.Dal.pdb
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.csprojAssemblyReference.cache
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.AssemblyInfoInputs.cache
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.AssemblyInfo.cs
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.csproj.CoreCompileInputs.cache
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.dll
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\ref\SurajBalwani.Personal.Dal.dll
+C:\Users\aakash\source\repos\Design\SurajBalwani.Personal.Sln\SurajBalwani.Personal.Dal\obj\Debug\net5.0\SurajBalwani.Personal.Dal.pdb
